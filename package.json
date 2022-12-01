@@ -1,0 +1,15 @@
+{
+  "name": "firebase-module",
+  "displayName": "Firebase Module",
+  "description": "Collection of extensions for working with Firebase",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "publisher.extensionName"
+  ]
+}
